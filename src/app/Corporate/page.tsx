@@ -6,7 +6,6 @@ import Contact from "@/components/core/Corporate/Contact";
 import { StaggerTestimonials } from "@/components/stagger-testimonials";
 import { CTA } from "@/components/core/Corporate/CTA";
 import { Pricing } from "@/components/ui/pricing-cards";
-import Features from "@/components/core/Corporate/Features";
 import HowItWorks from "@/components/core/Corporate/Steps";
 import { HeroSection } from "@/components/hero-section-4";
 import Banner from "@/components/core/Corporate/Banner";
