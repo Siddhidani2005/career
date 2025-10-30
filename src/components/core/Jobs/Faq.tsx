@@ -37,7 +37,7 @@ export const FaqSection: React.FC = () => {
 
   return (
     <section className="faq-section py-20 bg-gradient-to-br from-orange-100 via-orange-200 to-orange-500 dark:from-orange-600 dark:via-orange-300 dark:to-orange-400 transition-colors duration-500">
-      <div className="container mx-auto max-w-5xl rounded-3xl shadow-2xl bg-orange-50/90 dark:bg-gray-900/90 backdrop-blur-lg p-6 sm:p-12 transition-all duration-300">\
+      <div className="container mx-auto max-w-5xl rounded-3xl shadow-2xl bg-orange-50/90 dark:bg-gray-900/90 backdrop-blur-lg p-6 sm:p-12 transition-all duration-300">
         <div className="px-8 md:px-10 lg:px-16">
           {/* Header */}
           <div className="text-center mb-12">
@@ -93,7 +93,7 @@ export const FaqSection: React.FC = () => {
           {/* CTA Section */}
           <div className="text-center mt-16">
             <h4 className="text-2xl font-semibold mb-2 text-gray-900 dark:text-white">
-              Still have questions
+              Still have questions?
             </h4>
             <p className="text-gray-700 dark:text-gray-400">
               We are here to help. Reach out anytime for more information.
